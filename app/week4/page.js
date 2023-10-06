@@ -2,8 +2,8 @@ import NewEvent from "./new-item";
 
 export default function Home(){
     return(
-        <Main>
+        <main>
             <NewEvent />
-        </Main>
+        </main>
     )
 }
